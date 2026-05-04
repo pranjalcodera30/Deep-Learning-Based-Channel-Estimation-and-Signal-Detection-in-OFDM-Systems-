@@ -41,3 +41,28 @@ Python, TensorFlow, Keras, NumPy, Deep Learning, OFDM
 ![All Effects](images/results_all_effects.png)
 
 ## 📂 Project Structure
+project/
+│── model.ipynb
+│── images/
+│ ├── results_ber_main.png
+│ ├── results_no_cp.png
+│ ├── results_clipping.png
+│ ├── results_mismatch.png
+│ └── results_all_effects.png
+│── README.md
+
+## ▶️ How to Run
+1. Open the notebook in Google Colab  
+2. Install dependencies (if needed):
+    pip install tensorflow numpy
+
+4. Run all cells  
+
+## 💡 Future Improvements
+- Use real-world wireless datasets  
+- Experiment with CNN/RNN architectures  
+- Deploy as a real-time communication module  
+
+## 👨‍💻 Author
+Pranjal Singh  
+ECE Student | AI/ML Enthusiast | Full-Stack Developer
